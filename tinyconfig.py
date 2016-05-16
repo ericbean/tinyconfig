@@ -25,6 +25,12 @@
 
 # I could have just used configParser, but this was way more fun.
 
+__author__ = 'Eric Beanland'
+__date__ = '2016-05-15'
+__version__ = '0.1'
+__license__ = 'MIT'
+
+
 import collections
 import shlex
 
